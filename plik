@@ -1,3 +1,5 @@
 print {Hallo World}
 
 print {Pierwsza zmiana}
+
+print {druga zmiana}
